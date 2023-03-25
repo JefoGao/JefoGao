@@ -18,7 +18,7 @@
 
 - 👨‍💻 All of my projects are available at [Jefo's Repositories](https://github.com/JefoGao?tab=repositories)
 
-- 📝 I regularly write articles on DS/DE/CS/IT learning resources
+- 📝 I regularly write articles on **DS/DE/CS/IT learning resources**
 
 - 💬 Ask me about **Python, SQL and R projects.**
 
