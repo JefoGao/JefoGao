@@ -16,7 +16,7 @@
 
 - 🤝 I’m looking for help with [AI Prolog Essential](https://github.com/JefoGao/Resource_AI-Prolog-Essential)
 
-- 👨‍💻 All of my projects are available at [https://github.com/JefoGao?tab=repositories](https://github.com/JefoGao?tab=repositories)
+- 👨‍💻 All of my projects are available at [Jefo's Repositories](https://github.com/JefoGao?tab=repositories)
 
 - 📝 I regularly write articles on [CSIT learning resources](CSIT learning resources)
 
