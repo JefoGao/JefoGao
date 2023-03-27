@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="140" src="https://user-images.githubusercontent.com/19381768/227843766-e08d7ad0-f05f-48d1-a2a3-8fcfb85a4d34.png" />
+  <img width="140" src=“https://user-images.githubusercontent.com/19381768/227843976-f7bdd2b2-fe65-4947-990d-86a79819956a.png” />
   <p align="center"> :sparkles: :sparkles:</p>
 </p>
 
