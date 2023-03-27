@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="140" src=“https://avatars.githubusercontent.com/u/19381768?v=4” />
+  <img width="200" src="https://avatars.githubusercontent.com/u/19381768?v=4"/>
   <p align="center"> :sparkles: :sparkles:</p>
 </p>
 
