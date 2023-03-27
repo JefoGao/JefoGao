@@ -1,8 +1,5 @@
-![20230327minikyu-removebg](https://user-images.githubusercontent.com/19381768/227844239-93058822-37a3-4e3e-9069-6a7b66489bb1.png)
-
-
 <p align="center">
-  <img width="140" src=“https://user-images.githubusercontent.com/19381768/227844239-93058822-37a3-4e3e-9069-6a7b66489bb1.png” />
+  <img width="140" src=“https://www.serebii.net/Shiny/SWSH/778.png” />
   <p align="center"> :sparkles: :sparkles:</p>
 </p>
 
