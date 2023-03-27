@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="140" src="https://avatars.githubusercontent.com/u/19381768?v=4" />
+  <img width="140" src="https://user-images.githubusercontent.com/19381768/227843766-e08d7ad0-f05f-48d1-a2a3-8fcfb85a4d34.png" />
   <p align="center"> :sparkles: :sparkles:</p>
 </p>
 
@@ -7,6 +7,7 @@
 <h3 align="center">A passionate Data Scientist from Australia</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jefogao" alt="jefogao" /></a> </p>
+
 
 - 🔭 I’m currently working on [ETL pipeline automation](https://github.com/JefoGao/Python_lifestyle_scraper)
 
