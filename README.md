@@ -1,3 +1,6 @@
+![20230327minikyu-removebg](https://user-images.githubusercontent.com/19381768/227844239-93058822-37a3-4e3e-9069-6a7b66489bb1.png)
+
+
 <p align="center">
   <img width="140" src=“https://user-images.githubusercontent.com/19381768/227844155-a60ddeb2-3fae-4a0d-ad66-c5c338d2df40.png” />
   <p align="center"> :sparkles: :sparkles:</p>
