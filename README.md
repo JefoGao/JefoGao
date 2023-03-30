@@ -7,7 +7,7 @@
 <h3 align="center">A passionate Data Scientist from Australia</h3>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jefogao&theme=darkhub" alt="jefogao" /></a> </p>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jefogao&theme=onedark&no-bg=false&no-frame=true" alt="jefogao" /></a> </p>
 
 
 - 🔭 I’m currently working on [ETL pipeline automation](https://github.com/JefoGao/Python_lifestyle_scraper)
