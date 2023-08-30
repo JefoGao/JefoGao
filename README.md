@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on [ETL pipeline automation](https://github.com/JefoGao/Python_lifestyle_scraper)
 
-- 🌱 I’m currently learning **Machine Learning, Spatial Analysis, NLP and AI**
+- 🌱 I’m currently learning **Machine Learning, Data Mining, Data Exploration and Analysis**
 
 - 👯 I’m looking to collaborate on [Learning NLP in Python](https://github.com/JefoGao/Resource_NLP-in-Python)
 
